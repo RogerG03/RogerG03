@@ -1,24 +1,28 @@
-# 💫 About Me:
-🔭 Actualmente estoy trabajando en:<br>El desarrollo de aplicaciones web con enfoque en frontend, especialmente en proyectos con React.js y buenas prácticas de arquitectura.<br><br>👯 Busco colaborar en:<br>Proyectos de software que involucren diseño de interfaces, optimización de experiencia de usuario y desarrollo modular en JavaScript o frameworks modernos.<br><br>🤝 Busco ayuda con:<br>Mejorar mis prácticas en frontend, aprender backend, integración con APIs y optimización de rendimiento en aplicaciones complejas.<br><br>🌱 Actualmente estoy aprendiendo:<br>TypeScript, C#, .NET y patrones de diseño para fortalecer mi conocimiento fullstack.<br><br>💬 Pregúntame sobre:<br>Desarrollo frontend, React.js, organización de componentes y trabajo con metodologías ágiles.<br><br>⚡ Dato curioso:<br>Disfruto analizar cómo las pequeñas mejoras en una interfaz pueden transformar toda la experiencia del usuario.
+# Hola, soy Roger Guido
 
+### Software Developer · Frontend Developer · Ingeniero en Cibernética Electrónica
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/roger-0113-guido) 
+Ingenio y construyo interfaces que hacen más claros los sistemas complejos. Me interesa especialmente el punto donde el análisis funcional, la experiencia de uso y el frontend se encuentran para convertir requerimientos en productos que las personas puedan entender y utilizar con confianza.
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SvelteKit](https://img.shields.io/badge/sveltekit-%23ff3e00.svg?style=for-the-badge&logo=svelte&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)  ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=RogerG03&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=RogerG03&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RogerG03&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+[Conoce mi espacio profesional →](https://rogerg03.github.io/myrepo-mycareer/) · [LinkedIn](https://www.linkedin.com/in/roger-0113-guido)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=RogerG03&theme=react&no-frame=false&no-bg=true&margin-w=4)
+## Cómo aporto
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=RogerG03&limit=5&theme=dark&combine_all_yearly_contributions=true)
+Trabajo con una mirada de sistema: antes de llevar una pantalla a código, busco entender el flujo, sus reglas y a quién le debe resultar útil. Esa forma de trabajar me ha llevado a aportar en:
 
----
-[![](https://visitcount.itsvg.in/api?id=RogerG03&icon=0&color=0)](https://visitcount.itsvg.in)
+- interfaces y componentes que conservan claridad mientras el producto crece;
+- análisis de flujos, pruebas funcionales y corrección de hallazgos;
+- estandarización de componentes, control de cambios e internacionalización;
+- uso práctico de IA —prompts, agentes y memoria— para analizar código y documentar con mejor contexto.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Actualmente sigo desarrollando esta práctica en productos digitales de un entorno empresarial financiero, colaborando con equipos y sistemas que requieren atención al detalle, adaptación y cuidado por la continuidad del producto.
+
+## Un poco más allá del código
+
+Mi formación en Cibernética Electrónica me acostumbró a mirar las relaciones entre las partes de un sistema. El frontend es donde traduzco esa mirada en decisiones concretas: una interfaz comprensible, un flujo que no deja dudas y una base que otras personas puedan continuar.
+
+En mi [sitio profesional](https://rogerg03.github.io/myrepo-mycareer/) comparto proyectos seleccionados, el contexto de mi participación y la forma en que entiendo este trabajo. Es la mejor puerta de entrada si quieres conocerme más allá de un listado de tecnologías.
+
+## Conversemos
+
+Si te interesa mi trabajo, quieres colaborar o simplemente estás explorando lo que construyo, puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/roger-0113-guido) o recorrer el [sitio](https://rogerg03.github.io/myrepo-mycareer/).
