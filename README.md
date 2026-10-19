@@ -55,7 +55,7 @@ En mi [sitio profesional](https://rogerg03.github.io/myrepo-mycareer/) comparto 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=RogerG03&theme=transparent&hide_border=true&include_all_commits=true&show_icons=true" alt="Estadísticas públicas de GitHub de Roger Guido" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RogerG03&theme=transparent&hide_border=true&layout=compact" alt="Lenguajes públicos más usados por Roger Guido" />
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=RogerG03&theme=transparent&hide_border=true" alt="Racha pública de contribuciones de Roger Guido" />
+<img src="https://streak-stats.demolab.com?user=RogerG03&theme=github-dark-blue&hide_border=true" alt="Racha pública de contribuciones de Roger Guido" />
 
 </div>
 
@@ -63,9 +63,8 @@ En mi [sitio profesional](https://rogerg03.github.io/myrepo-mycareer/) comparto 
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=RogerG03&theme=flat&no-frame=true&no-bg=true&margin-w=6" alt="Logros públicos de GitHub de Roger Guido" />
-
-<img src="https://github-contributor-stats.vercel.app/api?username=RogerG03&limit=5&theme=transparent&combine_all_yearly_contributions=true" alt="Repositorios públicos con contribuciones de Roger Guido" />
+<a href="https://github.com/RogerG03/myrepo-mycareer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=RogerG03&repo=myrepo-mycareer&theme=transparent&hide_border=true" alt="Repositorio de mi sitio profesional" /></a>
+<a href="https://github.com/HQCodersLab/MS-RentalCars"><img src="https://github-readme-stats.vercel.app/api/pin/?username=HQCodersLab&repo=MS-RentalCars&theme=transparent&hide_border=true" alt="Proyecto colaborativo de software de gestión de renta de vehículos" /></a>
 
 </div>
 
