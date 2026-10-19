@@ -65,6 +65,4 @@ Si te interesa mi trabajo, quieres colaborar o simplemente estás explorando lo 
 
 <div align="center">
 
-[![Visitas al perfil](https://visitcount.itsvg.in/api?id=RogerG03&icon=0&color=6)](https://visitcount.itsvg.in)
-
 </div>
