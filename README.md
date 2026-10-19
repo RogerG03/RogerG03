@@ -59,15 +59,6 @@ En mi [sitio profesional](https://rogerg03.github.io/myrepo-mycareer/) comparto 
 
 </div>
 
-## Proyectos y contribuciones
-
-<div align="center">
-
-<a href="https://github.com/RogerG03/myrepo-mycareer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=RogerG03&repo=myrepo-mycareer&theme=transparent&hide_border=true" alt="Repositorio de mi sitio profesional" /></a>
-<a href="https://github.com/HQCodersLab/MS-RentalCars"><img src="https://github-readme-stats.vercel.app/api/pin/?username=HQCodersLab&repo=MS-RentalCars&theme=transparent&hide_border=true" alt="Proyecto colaborativo de software de gestión de renta de vehículos" /></a>
-
-</div>
-
 ## Conversemos
 
 Si te interesa mi trabajo, quieres colaborar o simplemente estás explorando lo que construyo, puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/roger-0113-guido) o recorrer el [sitio](https://rogerg03.github.io/myrepo-mycareer/).
